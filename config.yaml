@@ -168,7 +168,7 @@ params:
   title: "Cosmic Kitty"
   description: A personal site of Chiu-Yi Anna Hannah Ezra Yukon
   # staticPath: ""  # The path to serve the static files from
-  favicon: ""
+  favicon: "/fav.png"
 
   theme:
     disableThemeToggle: true
