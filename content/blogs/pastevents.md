@@ -8,16 +8,6 @@ image:
 description: Titties and Tee2Tote events
 toc:
 ---
-<video src="/images/tittiespast.mp4" autoplay muted loop controls></video>
-
-<style>
-    video {
-        height: 100vh;
-        width: 100%;
-        object-fit: cover; // use "cover" to avoid distortion
-        position: absolute;
-    }
-</style>
 
 
 Nov 2018: Tee2Tote events: making totebags and distributing them at a local Bushwick supermarket.
